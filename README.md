@@ -2,7 +2,7 @@
 <html>
 	<head>
 	  <meta charset="UTF-8">
-	  <script src="4.js"> 
+	  <script src="Lógica de Programação"> 
 	  </script> 
 	</head>
 	<body>
