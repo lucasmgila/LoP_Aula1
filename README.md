@@ -2,8 +2,10 @@
 <html>
 	<head>
 	  <meta charset="UTF-8">
+	  <script src="4.js"> 
+	  </script> 
 	</head>
 	<body>
-		PROBLEMAS ENCONTRADOS
+		INFELIZMENTE NÃO FOI DESSA VEZ, TENTE NOVAMENTE!
 	</body>
 </html>
