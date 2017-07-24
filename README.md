@@ -2,9 +2,8 @@
 <html>
 	<head>
 	  <meta charset="UTF-8">
-	  <script> alert("Olá Mundo!") </script>
 	</head>
 	<body>
-		Página WEB!
+		PROBLEMAS ENCONTRADOS
 	</body>
 </html>
