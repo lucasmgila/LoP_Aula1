@@ -2,12 +2,9 @@
 <html>
 	<head>
 	  <meta charset="UTF-8">
-	  <script src="4.js"> 
-	  </script> 
+	  <script> alert("Olá Mundo!") </script>
 	</head>
 	<body>
-		INFELIZMENTE NÃO FOI DESSA VEZ, TENTE NOVAMENTE!
+		Página WEB!
 	</body>
 </html>
-
-alert("LÓGICA DE PROGRAMAÇÃO");
