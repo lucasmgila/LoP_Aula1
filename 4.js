@@ -1,0 +1,1 @@
+alert("LÓGICA DE PROGRAMAÇÃO");
